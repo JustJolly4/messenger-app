@@ -30,7 +30,8 @@ The front-end is built with **React Native (Expo)** and supports web testing via
 
 ### Screenshots
 
-![Messenger App Screenshot](screenshot2.png)
+![Messenger App Screenshot](./images/screenshot2.png)
+
 
 
 ---
