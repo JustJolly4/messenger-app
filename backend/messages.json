@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "Alice",
+    "recipient": "Bob",
+    "message": "Hello Bob!",
+    "timestamp": "2025-06-05T14:48:13.034Z"
+  },
+  {
+    "sender": "Alice",
+    "recipient": "Bob",
+    "message": "Test again",
+    "timestamp": "2025-06-05T15:07:49.053Z"
+  },
+  {
+    "sender": "Justine ",
+    "recipient": "Jolly ",
+    "message": "Hello!!",
+    "timestamp": "2025-06-05T15:33:42.020Z"
+  },
+  {
+    "sender": "Justine ",
+    "recipient": "jolly",
+    "message": "Hiiii!!",
+    "timestamp": "2025-06-05T15:38:16.384Z"
+  },
+  {
+    "sender": "Justine ",
+    "recipient": "jolly",
+    "message": "Hello!",
+    "timestamp": "2025-06-05T15:40:47.681Z"
+  }
+]
